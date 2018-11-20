@@ -3,7 +3,7 @@ Contributors: bossma
 Donate link:http://blog.bossma.cn
 Tags: chinese tag, iis
 Requires at least: 3.1
-Tested up to: 4.9.8
+Tested up to: 5.0
 Stable tag: 1.3
 
 == Description ==
